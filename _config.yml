@@ -33,7 +33,7 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 # Build settings
 # theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-cache
   - jekyll-remote-theme
 
 # Exclude from processing.
